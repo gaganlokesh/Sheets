@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Sheets</string>
+    <string name="Version">V1.0</string>
+    <string name="title">News</string>
+    <string name="card_imageView">News Result Image.</string>
+    <string name="title_activity_drawer">DrawerActivity</string>
+    <string name="no_internet">No Internet Connection.</string>
+    <string name="connection_established"> </string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="detail_button_text">read full article</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="share_subject">Check this out! Sent from Sheets App.</string>
+
+    //--------ToolBar
+
+    <string name="default_toolbar_title">Sheets</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_search">Search</string>
+
+    <string name="search_bar_hint">Search for eg: \'Bitcoin\'</string>
+
+    <string name="Feedback">If you want to provide your feedback on the app, or have something to share with us, feel free
+    to leave a message below.</string>
+
+    <string name="Feedback_Hint">Type your message here</string>
+
+
+    <string name="news_reader">News Reader App</string>
+
+    <string name="designed_by">Developed by:</string>
+    <string name="gagan">Gagan Lokesh</string>
+
+    //------Branding (newsapi.org)
+
+    <string name="powered_by">powered by:</string>
+    <string name="newsapi">newsapi.org</string>
+</resources>
